@@ -101,7 +101,7 @@ jupyter notebook
 
 Then run the notebooks in the appropriate order.
 
-## 🏁 Conclusion
+##  Conclusion
 
 This project demonstrates a complete **Python-based retail data analysis workflow**, transforming raw data into actionable business insights.
 
