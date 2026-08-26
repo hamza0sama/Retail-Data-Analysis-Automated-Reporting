@@ -1,12 +1,12 @@
 # Mini-Project-001 | Advanced Python Data Exploration & Automated Reporting
 
-## 📌 Project Overview
+##  Project Overview
 
 An end-to-end **retail data analysis project** using the **Sample-Superstore2019** dataset.
 
 The project focuses on sales, profitability, customer behavior, product performance, discounts, shipping, regional performance, and business trends using Python and Jupyter Notebook.
 
-## 🎯 Objectives
+##  Objectives
 
 * Clean and validate the dataset
 * Perform exploratory and statistical analysis
@@ -18,7 +18,7 @@ The project focuses on sales, profitability, customer behavior, product performa
 * Generate business insights
 * Export the cleaned dataset
 
-## 🛠️ Technologies
+##  Technologies
 
 * Python
 * Jupyter Notebook
@@ -28,7 +28,7 @@ The project focuses on sales, profitability, customer behavior, product performa
 * Seaborn
 * PyArrow
 
-## 🔄 Workflow
+##  Workflow
 
 ```text
 Raw Data
@@ -50,7 +50,7 @@ Business Insights
 Cleaned Data Export
 ```
 
-## 📊 Key Insights
+##  Key Insights
 
 * **Consumer** generated the highest total sales.
 * **West** was the strongest region in total sales and profit.
@@ -60,7 +60,7 @@ Cleaned Data Export
 * **2019** recorded the highest annual sales.
 * **Home Office** had a higher average sales value per order despite lower total sales.
 
-## 💾 Data Export
+##  Data Export
 
 The cleaned dataset was exported in **Parquet** format:
 
@@ -68,7 +68,7 @@ The cleaned dataset was exported in **Parquet** format:
 cleaned_data.parquet
 ```
 
-## 📓 Project Structure
+##  Project Structure
 
 ```text
 Mini-Project-001/
@@ -85,7 +85,7 @@ Mini-Project-001/
 └── requirements.txt
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 Install the required libraries:
 
@@ -107,7 +107,7 @@ This project demonstrates a complete **Python-based retail data analysis workflo
 
 It highlights why retail performance should be evaluated through **both sales and profitability**, while considering discounts, customers, products, regions, shipping, and time trends.
 
-## 👨‍💻 Author
+##  Author
 
 **Hamza Osama Aboshady**
 
