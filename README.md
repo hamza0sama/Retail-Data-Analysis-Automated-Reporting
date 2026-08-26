@@ -1,4 +1,4 @@
-# Mini-Project-001 | Advanced Python Data Exploration & Automated Reporting
+# Advanced Python Data Exploration & Automated Reporting
 
 ##  Project Overview
 
